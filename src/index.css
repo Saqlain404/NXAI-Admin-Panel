@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.site-collapse-custom-collapse {
+  background: #fff;
+}
+.site-collapse-custom-panel {
+  margin-bottom: 0;
+  overflow: hidden;
+  background: #fff;
+  border: 0;
+}
